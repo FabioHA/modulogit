@@ -1,6 +1,2 @@
-Meu primeiro sistema no GIT.
-
-esse e um teste.
-
-php e uma linguagem muito legal.
+Esse README foi criado para fazer testes.
 
